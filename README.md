@@ -15,13 +15,14 @@ https://www.nature.com/articles/sdata2017193
 ## COMP6 Benchmark Results:
 #### These results represent the errors (MAE/RMSE) over the entire benchmark using a single ML potential (column 1). Please read https://arxiv.org/abs/1801.09319 Section IID for a detailed description of the error metrics.
 #### Please contact Justin S. Smith at jussmith48@gmail.com if you'd like to add your results from the COMP6 benchmark.
-##### Units: kcal/mol and kcal/mol/A (errors are NOT per atom)
-##### Error key: MAE/RMSE
 ### Complete COMP6 benchmark results:
 |   Potential        |     Energy       | Relative Energy  |        Force     |
 | ------------------ | ---------------- | ---------------- | ---------------- |
 | ANI-1x<sup>1</sup> |  1.93/3.37       |    1.85/2.95     |      3.09/5.29   |
 | ANI-1<sup>1</sup>  |  5.01/16.9      |    3.01/6.97     |      3.70/7.13   |
+
+Units: kcal/mol and kcal/mol/A (errors are NOT per atom)
+Error key: MAE/RMSE
 
 ##### 1) https://arxiv.org/abs/1801.09319
 
