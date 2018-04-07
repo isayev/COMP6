@@ -26,7 +26,7 @@ https://www.nature.com/articles/sdata2017193
 
 ## Related work
 
-### ML Potential Method:
+### ANAKIN-ME ML Potential Method:
 Justin S. Smith, Olexandr Isayev, Adrian E. Roitberg. *ANI-1: An extensible neural network potential with DFT accuracy at force field computational cost*. Chemical Science, 2017, DOI: [10.1039/C6SC05720A](http://pubs.rsc.org/en/content/articlelanding/2017/sc/c6sc05720a)
 
 ### Original ANI-1 data:
