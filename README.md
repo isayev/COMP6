@@ -14,7 +14,6 @@ https://www.nature.com/articles/sdata2017193
 
 ##Current Benchmark Results:
 
-|              Test             |
 | First Header  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
