@@ -20,7 +20,7 @@ https://www.nature.com/articles/sdata2017193
 |   Potential        |     Energy       | Relative Energy  |        Force     |
 | ------------------ | ---------------- | ---------------- | ---------------- |
 | ANI-1x<sup>1</sup> |  1.93/3.37       |    1.85/2.95     |      3.09/5.29   |
-| ANI-1<sup>1</sup>  |  5.01/16.94      |    3.01/6.97     |      3.70/7.13   |
+| ANI-1<sup>1</sup>  |  5.01/16.9      |    3.01/6.97     |      3.70/7.13   |
 
 ##### 1) https://arxiv.org/abs/1801.09319
 
