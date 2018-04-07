@@ -14,7 +14,7 @@ https://www.nature.com/articles/sdata2017193
 
 ##Current Benchmark Results:
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+|   Potential   |     Energy    |   Relative Energy  |     Force    |
+| ------------- | ------------- | ------------- | ------------- |
+|     ANI-1     | Content Cell  | Content Cell  | Content Cell  |
+|     ANI-1x    | Content Cell  | Content Cell  | Content Cell  |
