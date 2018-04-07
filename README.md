@@ -12,9 +12,11 @@ https://github.com/isayev/ANI1_dataset
 The following paper contains a description of the file format:
 https://www.nature.com/articles/sdata2017193
 
-##Current Benchmark Results:
-
+## Current Benchmark Results:
+#### Please read https://arxiv.org/abs/1801.09319 for a detailed description of our error metrics.
+#### Please contact Justin S. Smith at jussmith48@gmail.com if you'd like to add your results from the COMP6 benchmark.
+##### Units: kcal/mol and kcal/mol/A (errors are NOT per atom)
 |   Potential   |     Energy    |   Relative Energy  |     Force    |
-| ------------- | ------------- | ------------- | ------------- |
-|     ANI-1     | Content Cell  | Content Cell  | Content Cell  |
-|     ANI-1x    | Content Cell  | Content Cell  | Content Cell  |
+| ------------- | ------------- | -------------      | ------------- |
+|     ANI-1     | Content Cell  | Content Cell       | Content Cell  |
+|     ANI-1x    | Content Cell  | Content Cell       | Content Cell  |
