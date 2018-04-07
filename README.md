@@ -1,4 +1,4 @@
-# COmprehensive Machine-learning Potential (COMP6) Benchmark Suite
+## COmprehensive Machine-learning Potential (COMP6) Benchmark Suite
 This repository contains the COMP6 benchmark for evaluating the extensibility of machine-learning based molecular potentials.
 
 ##### If you use the COMP6 benchmark please cite this paper: 
