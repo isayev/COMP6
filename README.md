@@ -13,6 +13,7 @@ The following paper contains a description of the file format:
 https://www.nature.com/articles/sdata2017193
 
 ##Current Benchmark Results:
+
 |              Test             |
 | First Header  | Second Header |
 | ------------- | ------------- |
