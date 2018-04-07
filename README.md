@@ -17,6 +17,7 @@ https://www.nature.com/articles/sdata2017193
 #### Please contact Justin S. Smith at jussmith48@gmail.com if you'd like to add your results from the COMP6 benchmark.
 ##### Units: kcal/mol and kcal/mol/A (errors are NOT per atom)
 ##### Error key: MAE/RMSE
+### Complete COMP6 benchmark results:
 |   Potential        |     Energy       | Relative Energy  |        Force     |
 | ------------------ | ---------------- | ---------------- | ---------------- |
 | ANI-1x<sup>1</sup> |  1.93/3.37       |    1.85/2.95     |      3.09/5.29   |
