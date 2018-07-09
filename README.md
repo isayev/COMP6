@@ -3,7 +3,8 @@ This repository contains the COMP6 benchmark for evaluating the extensibility of
 
 ##### If you use the COMP6 benchmark please cite this paper: 
 
-Justin S. Smith, Ben Nebgen, Nicholas Lubbers, Olexandr Isayev, Adrian E. Roitberg. *Less is more: sampling chemical space with active learning*. The Journal of Chemical Physics, 2018, (https://aip.scitation.org/doi/abs/10.1063/1.5023802)
+### Active learning-based (ANI-1x):
+Justin S. Smith, Ben Nebgen, Nicholas Lubbers, Olexandr Isayev, Adrian E. Roitberg. *Less is more: sampling chemical space with active learning*. The Journal of Chemical Physics 148, 241733 (2018), (https://aip.scitation.org/doi/abs/10.1063/1.5023802)
 
 ## Usage
 Please read the README.md in the repository linked below for instructions on how to extract the COMP6 HDF5 (extention \*.h5) files. 
